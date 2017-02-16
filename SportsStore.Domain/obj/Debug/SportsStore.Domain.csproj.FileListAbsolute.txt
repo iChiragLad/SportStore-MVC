@@ -1,5 +1,8 @@
+C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Helpers.dll
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.dll
@@ -7,6 +10,8 @@ C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.Domain\bin\Debug\System.Web
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.dll
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Helpers.xml
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.xml
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Razor.xml
@@ -15,3 +20,4 @@ C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.Domain\bin\Debug\System.Web
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache

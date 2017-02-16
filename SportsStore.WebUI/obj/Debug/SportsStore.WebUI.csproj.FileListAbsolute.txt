@@ -15,6 +15,8 @@ C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.WebUI\bin\Castle.Core.dll
+C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
@@ -38,6 +40,8 @@ C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.WebUI\bin\System.Web.Webpag
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.WebUI\bin\WebActivatorEx.dll
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.WebUI\bin\Castle.Core.xml
+C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.Web.xml
