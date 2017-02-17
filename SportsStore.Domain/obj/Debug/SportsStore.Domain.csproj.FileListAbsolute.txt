@@ -18,6 +18,6 @@ C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.Domain\bin\Debug\System.Web
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.xml
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
-C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
