@@ -1,5 +1,7 @@
-﻿using System.Web.Mvc;
+﻿using System.Linq;
+using System.Web.Mvc;
 using SportsStore.Domain.Abstract;
+using SportsStore.WebUI.Models;
 
 namespace SportsStore.WebUI.Controllers
 {
@@ -11,9 +13,12 @@ namespace SportsStore.WebUI.Controllers
             _repository = repository;
         }
 
-        public ViewResult List()
+        public ViewResult List(string category)
         {
-            return View(_repository.Products);
+            ProductsListViewModel model = new ProductsListViewModel();
+            model.Products = _repository.Products.Where(p => p.Category == category).OrderBy(p => p.ProductId);
+            model.CurrentCategory = category;
+            return View(model);
         }
     }
 }

@@ -1,11 +1,11 @@
 ﻿@using SportsStore.Domain.Entities
-@model IEnumerable<Product>
+@model SportsStore.WebUI.Models.ProductsListViewModel
 @{
     ViewBag.Title = "Product";
 }
 
 
-@foreach (Product p in @Model)
+@foreach (Product p in @Model.Products)
 {
     @Html.Partial("ProductSummary", p)
 }

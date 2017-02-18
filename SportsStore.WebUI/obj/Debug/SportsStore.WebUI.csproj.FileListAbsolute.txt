@@ -17,6 +17,9 @@ C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.WebUI\bin\Castle.Core.dll
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.WebUI\bin\Glimpse.Ado.dll
+C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.WebUI\bin\Glimpse.Core.dll
+C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.WebUI\bin\Glimpse.EF6.dll
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
 C:\Users\HP\Desktop\Practice\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
